@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+### SUPER BREAK GEM
+![Alt text](icon.png?raw=false "Screenshot")
+This is a classic arcade game where you need to break gems and score as many points as possible for broken blocks.
+- Control the ball with the movements of your Iphone or Ipad!
+- Watch in real time the number of broken gems all over the world!
+- Unlock new balls for points!
 
-You can use the [editor on GitHub](https://github.com/najdenovurij67/Super-Break-Gem/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Contact here: najdenovurij67@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/najdenovurij67/Super-Break-Gem/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Alt text](7-21-2019_8-50-51_PM.png?raw=false "Screenshot")
